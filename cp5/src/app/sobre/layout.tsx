@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Teoria3- Reinterpretação de textos antigos",
+    title: "Sobre",
     description: "Generasted by create next app",
 };
 
