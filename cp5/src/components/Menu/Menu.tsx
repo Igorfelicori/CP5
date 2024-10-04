@@ -10,6 +10,11 @@ export default function Menu() {
                 <li>
                     <Link href="/teorias">Teorias</Link>
                 </li>
+                    <Link href="/cosmogonia">Cosmogonia</Link>
+                <li>
+                    <Link href="/cronologia">Cronologia</Link>
+                </li>
+                    <Link href="/mitos">Mitos</Link>
 
 
 
