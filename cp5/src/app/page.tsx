@@ -1,6 +1,15 @@
+import Image from "next/image";
+
+
 export default function Home() {
   return (
     <div>
+      <figure>
+        <Image src="/images/veliko.png"
+        width={500}
+        height={500}
+        alt="Imagem autor"/>
+      </figure>
       <h2>Quem foi Velikovsky?</h2>
       <p>
         Immanuel Velikovsky (1895–1979) foi um psiquiatra, historiador e teórico científico russo-israelense que ganhou notoriedade por suas teorias controversas sobre catástrofes cósmicas, especialmente expressas em seu livro "Worlds in Collision" ("Mundos em Colisão"), publicado em 1950. Velikovsky propôs que eventos astronômicos violentos, como deslocamentos de planetas e cometas, tiveram um impacto direto na Terra e foram responsáveis por eventos catastróficos descritos em mitologias, textos religiosos e antigas histórias de civilizações ao redor do mundo.
